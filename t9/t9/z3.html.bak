@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Гіперпосилання</title>
+		<style>
+			body{
+				background: rebeccapurple;
+				color: white;
+				font-family: Tahoma;
+				font-size: 120%;
+				padding: 50px 12%;
+			}
+			a{
+				color: white;
+				text-decoration: none;
+			}
+		</style>
+	</head>
+	
+	<body>
+		
+	</body>
+</html>
